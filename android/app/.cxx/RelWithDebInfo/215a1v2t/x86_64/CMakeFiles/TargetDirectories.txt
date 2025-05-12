@@ -1,0 +1,2 @@
+C:/flutter_apps/univapp_2/android/app/.cxx/RelWithDebInfo/215a1v2t/x86_64/CMakeFiles/edit_cache.dir
+C:/flutter_apps/univapp_2/android/app/.cxx/RelWithDebInfo/215a1v2t/x86_64/CMakeFiles/rebuild_cache.dir

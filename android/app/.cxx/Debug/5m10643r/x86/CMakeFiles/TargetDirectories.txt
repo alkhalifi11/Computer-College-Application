@@ -1,0 +1,2 @@
+C:/flutter_apps/univapp_2/android/app/.cxx/Debug/5m10643r/x86/CMakeFiles/edit_cache.dir
+C:/flutter_apps/univapp_2/android/app/.cxx/Debug/5m10643r/x86/CMakeFiles/rebuild_cache.dir
